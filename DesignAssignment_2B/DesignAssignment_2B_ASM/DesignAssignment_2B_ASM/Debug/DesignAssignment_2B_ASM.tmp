@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\Debug\DesignAssignment_2B_ASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DesignAssignment_2B_ASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DesignAssignment_2B_ASM.map</FILE>
+  <FILE>DesignAssignment_2B_ASM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DUTY_CYCLE><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>14</LINE></DUTY_CYCLE>
+  <EX0_ISR><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>35</LINE></EX0_ISR>
+  <DELAY_250ms><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>45</LINE></DELAY_250ms>
+  <DELAY_375ms><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>61</LINE></DELAY_375ms>
+  <DELAY_BUTTON><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>77</LINE></DELAY_BUTTON>
+  <D0><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>47</LINE></D0>
+  <D1><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>48</LINE></D1>
+  <D2><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>51</LINE></D2>
+  <B0><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>63</LINE></B0>
+  <B1><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>64</LINE></B1>
+  <B2><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>67</LINE></B2>
+  <C0><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>79</LINE></C0>
+  <C1><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>80</LINE></C1>
+  <C2><FILE>c:\users\bryse\Documents\Atmel Studio\7.0\DesignAssignment_2B_ASM\DesignAssignment_2B_ASM\main.asm</FILE><LINE>83</LINE></C2>
+ </LABELS>
+</ASSEMBLER_INFO>
